@@ -22,7 +22,7 @@ public class Main {
 
 
 
-
+        Saludo hola = new Saludo("David", 33);
 
 
 
